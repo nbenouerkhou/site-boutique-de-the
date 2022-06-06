@@ -1,2 +1,2 @@
 # site-boutique-de-the
-Ce site est réalisé avec HTML, CSS, BOOTSTRAP 
+Ce site est réalisé en HTML, CSS, BOOTSTRAP 
